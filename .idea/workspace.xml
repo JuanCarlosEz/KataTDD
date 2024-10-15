@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba2319c3-4a7e-4c6e-903f-dcaa3d5474c9" name="Changes" comment="Caso 4:Calcular conjunto con N elementos (Rojo)" />
+    <list default="true" id="ba2319c3-4a7e-4c6e-903f-dcaa3d5474c9" name="Changes" comment="Caso 4:Calcular conjunto con N elementos (Verde)">
+      <change beforePath="$PROJECT_DIR$/src/logica/Conjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Conjunto.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729022457744</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Caso 4:Calcular conjunto con N elementos (Verde)">
+      <option name="closed" value="true" />
+      <created>1729022603761</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729022603761</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -175,7 +185,8 @@
     <MESSAGE value="Caso 3:Calcular el promedio con un conjutno de dos elementos (Rojo)" />
     <MESSAGE value="Caso 3:Calcular el promedio con un conjutno de dos elementos (Verde)" />
     <MESSAGE value="Caso 4:Calcular conjunto con N elementos (Rojo)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Caso 4:Calcular conjunto con N elementos (Rojo)" />
+    <MESSAGE value="Caso 4:Calcular conjunto con N elementos (Verde)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Caso 4:Calcular conjunto con N elementos (Verde)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
